@@ -1,6 +1,8 @@
 
 # Hello, world!  👋
 ## My name is Thongchai Sittikhetkorn :fire: :fire: :fire:
+🔭 I’m currently working on Soft Square International Co., Ltd.
+🌱 I’m currently learning Nodejs
 
 <!-- # I am Programmer :fire: :fire: :fire: -->
 <!-- -![](https://github-readme-stats.vercel.app/api?username=thongchaiSH&show_icons=true) -->
@@ -19,7 +21,7 @@
 * [Soft Square 1999 Co., Ltd.](http://www.softsquaregroup.com/)
     * Software developer trainee 2017
 
-# Tech Stack
+# 🔧 Tech Stack
 ### Front End
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
