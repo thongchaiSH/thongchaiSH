@@ -16,8 +16,10 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=thongchaiSH&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
 # Experience
+* [PP&P ADVANCE Co., Ltd.](http://www.ppp.co.th/) 
+    * Java developer 2021 - Present
 * [Soft Square International Co., Ltd.](http://www.softsquaregroup.com/)
-    * Senior Software developer 2017 - Present
+    * Senior Software developer 2017 - 2021
 * [Soft Square 1999 Co., Ltd.](http://www.softsquaregroup.com/)
     * Software developer trainee 2017
 
