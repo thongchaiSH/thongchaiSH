@@ -1,7 +1,7 @@
 
 # Hello, world!  👋
 ## My name is Thongchai Sittikhetkorn :fire: :fire: :fire:
-🔭 I’m currently working on FWD Life Insurance Public Company Limited.
+🔭 I’m currently working on FWD Life Insurance Public Company Limited.  
 🌱 I’m currently learning Nodejs
 
 <!-- # I am Programmer :fire: :fire: :fire: -->
